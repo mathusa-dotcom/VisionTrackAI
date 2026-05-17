@@ -1,0 +1,18 @@
+# VisionTrackAI
+
+VisionTrackAI is an AI-powered real-time object detection and tracking system built using computer vision and machine learning technologies.
+
+## Features
+- Real-time object detection
+- Motion tracking
+- AI-based image analysis
+- Scalable architecture
+- Security and automation applications
+
+## Technologies Used
+- Python
+- OpenCV
+- TensorFlow / PyTorch
+
+## Purpose
+To provide intelligent visual monitoring solutions for automation, healthcare, surveillance, and smart systems.
